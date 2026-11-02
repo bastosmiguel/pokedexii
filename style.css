@@ -39,12 +39,12 @@ header, footer
 header
 {
   font-family: "Press Start 2P", Courier, monospace;
-  font-size: 28px;
+  font-size: 26px;
 }
 
 #icone-pokebola
 {
-  width: 34px;
+  width: 32px;
 }
 
 #icone-pokebola:hover
